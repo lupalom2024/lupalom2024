@@ -15,9 +15,7 @@ Analytics Engineer specializing in the Microsoft Azure and Fabric ecosystem. I h
 ---
 
 ### 🚀 Featured Projects
-* **[Fabric Data Pipeline]**: End-to-end data orchestration using the modern Microsoft suite.
-* **[Sales Analytics Pro]**: Corporate dashboard for visualizing commercial KPIs.
-* **[Interactive Graph Viz]**: Interactive graph visualization tool using Python.
+* **[Real-Time Seismic Analytics](https://github.com/lupalom2024/seismic-data-pipeline)**: End-to-end pipeline processing USGS earthquake data.
 
 ---
 
