@@ -1,5 +1,4 @@
-# Luis Palomino Vallve
-### Analytics | BI Lead | Microsoft Fabric Specialist 🇵🇪
+# Analytics | BI Lead | Microsoft Fabric Specialist 🇵🇪
 
 Analytics Engineer specializing in the Microsoft Azure and Fabric ecosystem. I help organizations transform raw data into strategic decisions. Founder of **Greybeard Academy**.
 
