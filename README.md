@@ -19,7 +19,6 @@ Analytics Engineer specializing in the Microsoft Azure and Fabric ecosystem. I h
 End-to-end data engineering pipeline consuming USGS earthquake data using Microsoft Fabric & PySpark.
 **[Executive Sales Dashboard](https://github.com/lupalom2024/executive-sales-dashboard)**
 Interactive visualization tool for commercial KPIs built with Python and Streamlit.
-
 **[E-Commerce Analytics](https://github.com/lupalom2024/ecommerce-analytics-dbt)**
 Analytics engineering workflow using dbt (Data Build Tool) for transformation and data quality.
 
