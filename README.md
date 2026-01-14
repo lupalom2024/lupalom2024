@@ -21,6 +21,7 @@ End-to-end data engineering pipeline consuming USGS earthquake data using Micros
 Interactive visualization tool for commercial KPIs built with Python and Streamlit.
 **[E-Commerce Analytics](https://github.com/lupalom2024/ecommerce-analytics-dbt)**
 Analytics engineering workflow using dbt (Data Build Tool) for transformation and data quality.
+
 ---
 
 ### Connect
